@@ -28,7 +28,7 @@ Run the inference.py file to perform real-time emotion detection. The system use
 Clone the Repository: Clone this GitHub repository to your local machine using the following command:
 bash
 Copy code
-git clone https://github.com/your_username/emotion-detection-system.git
+git clone https://github.com/Saloniimathur/Real-Time-Emotion-Detection-System.git
 
 ### How to Use
 1. Data Collection: Run data_collection.py and enter the label of the emotion while showing corresponding facial expressions to record the training data.
